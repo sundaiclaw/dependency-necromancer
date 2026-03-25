@@ -30,3 +30,7 @@ It uses an OpenRouter free model and renders the answer as readable markdown in 
 - No saved diagnosis history yet
 - No file upload yet; logs are pasted manually
 - Advice quality depends on the pasted log and env hints
+
+
+Build on Sundai Club on March 25, 2026  
+Sundai Project: https://www.sundai.club/projects/508e1851-018c-48aa-a384-657ab05e85f6
